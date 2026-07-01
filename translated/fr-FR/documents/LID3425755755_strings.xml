@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Fabio_Android_2_9 - FULL-FILE-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+  <!--_ https://olibouban.lingoport.io/incontext-server/lookup?key=4_3&token=eb155m17046u70dG81a275EorSPXJX4n-->
+  <string name="action_cancelled">Action annulée</string>
+  <!--_ https://olibouban.lingoport.io/incontext-server/lookup?key=5_3&token=eb155m17046u70dG81a275EorSPXJX4n-->
+  <string name="no_internet_title">Pas de connexion Internet</string>
+  <!--_ https://olibouban.lingoport.io/incontext-server/lookup?key=6_3&token=eb155m17046u70dG81a275EorSPXJX4n-->
+  <string name="internet_disconnect_try_again">Cette action ne peut pas être effectuée. Veuillez vérifier votre connexion et réessayer.</string>
+  <!--_ https://olibouban.lingoport.io/incontext-server/lookup?key=7_3&token=eb155m17046u70dG81a275EorSPXJX4n-->
+  <string name="ok">OK</string>
+  <!--_ https://olibouban.lingoport.io/incontext-server/lookup?key=8_3&token=eb155m17046u70dG81a275EorSPXJX4n-->
+  <string name="cancel">Annuler</string>
+</resources>
