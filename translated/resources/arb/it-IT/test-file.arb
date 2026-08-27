@@ -1,0 +1,23 @@
+{
+  "@@locale": "it-IT",
+  "greetingByName": "Ciao {firstName}, bentornato.",
+  "@greetingByName": {
+    "description": "Greeting shown on the home screen when a returning member opens the app.",
+    "placeholders": {
+      "firstName": {
+        "type": "String",
+        "example": "Alex"
+      }
+    }
+  },
+  "unreadMessageCount": "{count, plural, =0{Nessun nuovo messaggio} =1{{count} nuovo messaggio} one{{count} nuovo messaggio} many{{count} nuovi messaggi} other{{count} nuovi messaggi}}",
+  "@unreadMessageCount": {
+    "description": "Inbox badge text. Note the nested {count} placeholder inside the plural variants.",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "maxValue": "0"
+      }
+    }
+  }
+}
