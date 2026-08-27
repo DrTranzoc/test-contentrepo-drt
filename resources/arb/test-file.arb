@@ -1,5 +1,5 @@
 {
-    "@@locale” : "en”
+    "@@locale" : "en",
     "greetingByName": "Hi {firstName}, welcome back.",
     "@greetingByName": {
         "description": "Greeting shown on the home screen when a returning member opens the app.",
